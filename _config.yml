@@ -14,9 +14,11 @@ lang: es
 markdown: kramdown
 include: [_redirects, _headers]
 remote_theme: Coderic/CodericTheme
+languages: ["es", "en"]
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-multiple-languages-plugin
