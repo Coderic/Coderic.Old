@@ -14,7 +14,7 @@ markdown: kramdown
 include: [_redirects, _headers]
 remote_theme: Coderic/CodericTheme
 languages: ["es", "en"]
-default_locale_in_subfolder: false
+default_locale_in_subfolder: true
 exclude_from_localizations: ["assets"]
 plugins:
   - jekyll-feed
