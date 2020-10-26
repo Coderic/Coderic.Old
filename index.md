@@ -1,7 +1,6 @@
 ---
 layout: pagina
 title: Ecosistema Coderic
-permalink: /
 canonical_url: https://schema.coderic.net/
 sitemap: false
 ---
