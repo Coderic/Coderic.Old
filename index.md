@@ -1,7 +1,6 @@
 ---
 layout: pagina
 title: Ecosistema Coderic
-canonical_url: https://schema.coderic.net/
 sitemap: false
 ---
 ## ¿Qué estamos haciendo?
