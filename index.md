@@ -1,6 +1,6 @@
 ---
 layout: pagina
-title: Ecosistema Coderic
+title: Coderic
 sitemap: false
 ---
 ## ¿Qué estamos haciendo?
