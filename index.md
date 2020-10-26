@@ -4,7 +4,8 @@ title: Ecosistema Coderic
 sitemap: false
 ---
 ## ¿Qué estamos haciendo?
-### {% t HelloWorld %}
+### Prueba de Traducción
+{% t HelloWorld %}
 Entendemos que desarrollar un módulo de facturación electrónica para cada una de las aplicaciones es un trabajo complejo, y que requiere de un equipo significativo, lo que nos lleva al hecho de que es absurdo que cada proveedor tecnológico deba desarrollar el mismo módulo, cuando todas tienen entre sí, las mismas necesidades.
 El asunto de la facturación electrónica será una tendencia reglamentaria que será una necesidad internacional, por lo que esta necesidad no se limita a Colombia, sino a muchos países.
 
